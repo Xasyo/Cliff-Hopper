@@ -1,4 +1,5 @@
-![image](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/16554e98-4f61-4f51-a922-8208eaa14015)# Cliff-Hopper
+#Cliff Hopper
+
 3D game made with Unity based on the real game Cliff Hopper. Joc fet per l'assignatura de Videojocs del GEI a la FIB. Mark: 10.
 
 If you want to play the game all you need to do is download the Binary folder and run the aplication file inside.
