@@ -1,4 +1,4 @@
-# Cliff-Hopper
+![image](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/16554e98-4f61-4f51-a922-8208eaa14015)# Cliff-Hopper
 3D game made with Unity based on the real game Cliff Hopper. Joc fet per l'assignatura de Videojocs del GEI a la FIB. Mark: 10.
 
 If you want to play the game all you need to do is download the Binary folder and run the aplication file inside.
@@ -18,7 +18,13 @@ The credits screen shows the name of the people who have worked on the project. 
 ![credits](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/aef5d07a-9c85-4ddd-98ec-e8f392257ec1)
 
 
-As soon as the play button button is pressed, the gameplay begins. The game is a 3D endless runner with different obstacles and items. However, in our case the level is fixed and lasts about a minute.
+As soon as the play button button is pressed, the gameplay begins. The original game is a 3D endless runner. However, in our case the level is fixed and lasts about a minute. It has different objects and obstacles:
+- Giant rock: Follows the player during the level, representing the main threat although it cannout reack it.
+- Lava: Burns the player and has a particle system that emulates the fire of lava.
+- Saw: Can cut the palyer and it moves back and forth having a particle system that emulates sparks.
+- Spikes: Can stab the player if it lands on them.
+- Moving blocks: May cause the player to fall since it has to calculate more precisely when to jump.
+- Coin: The player can collect them in order to face another challenge when completing the level.
 
 ![gameplay](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/775e3f5f-b525-41de-9865-f5adc96a3b42)
 
