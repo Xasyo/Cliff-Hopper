@@ -5,7 +5,7 @@ If you want to play the game all you need to do is download the Binary folder an
 
 We created a main menú where the game level can be seen in the background. Four buttons are found in this screen, play, instructions, credits and quit.
 
-![menu](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/7a1968ac-8757-498b-8f76-78251b3d2cda)
+![menu](https://github.com/Xasyo/Cliff-Hopper/assets/93864076/7a1968ac-8757-498b-8f76-78251b3d2cda) { width=50% }
 
 
 In the instructions screen there is a brief explanation of the game.
