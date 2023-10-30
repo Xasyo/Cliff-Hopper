@@ -1,5 +1,5 @@
 # Cliff-Hopper
-3D game made with Unity based on the real game Cliff Hopper. Joc fet per l'assignatura de Videojocs del GEI a la FIB.
+3D game made with Unity based on the real game Cliff Hopper. Joc fet per l'assignatura de Videojocs del GEI a la FIB. Mark: 10.
 
 If you want to play the game all you need to do is download the Binary folder and run the aplication file inside.
 
